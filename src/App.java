@@ -63,7 +63,7 @@ public class App {
                         control = true;
                         break;
                     default:
-                        System.out.println("operador o acción invalidad");
+                        System.out.println("operador o acción invalidad\n");
                 }
             } while (control == false);
 
